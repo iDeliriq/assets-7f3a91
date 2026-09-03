@@ -1,8 +1,8 @@
 {
-  "version": "2026.09.03-2243",
+  "version": "2026.09.03-2302",
   "blob": "data.bin",
-  "sha256": "88a59218e8028cb8e144953c4b364a67f91f4ed8617af44617d2836572e59b11",
-  "size": 403468,
+  "sha256": "32f1943a2ec2c4bc52bbcffaf69d75968bfc3ff769e683be66aa3bf05ac39030",
+  "size": 403861,
   "ocr": {
     "blob": "ocr.bin",
     "sha256": "b7948726e621609b0fb69b18cdc0e785c44603b8ffeef1a5a819be6a9cc6f3ab",
